@@ -1,0 +1,8 @@
+1. Create a branch ABC from master
+2. Checkout to new branch ABC
+3. Commit files in the new branch ABC
+4. Merge ABC branch with master branch
+5. Create a branch DEF from ABC branch
+6. Commit files in the new branch DEF
+7. Merge DEF to ABC and then ABC to master 
+8. Delete DEF branch
